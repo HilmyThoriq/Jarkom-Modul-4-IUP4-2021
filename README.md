@@ -4,6 +4,10 @@ Hilmy Thoriq - 05111942000012
 
 Nadhif Bhagawanta - 05111942000029
 
+# QUESTION
+
+
+
 # ANSWER
 ![Gambar topologi](https://user-images.githubusercontent.com/81411468/143681459-e6159b8a-ae50-44b4-bc5b-869e71664827.png)
 Here we want to make VLSM and CIDR with this Topology with different classless calculation<br>
