@@ -5,6 +5,7 @@ Hilmy Thoriq - 05111942000012
 Nadhif Bhagawanta - 05111942000029
 
 # QUESTION
+![image](https://user-images.githubusercontent.com/81474281/143683260-ad5a5be3-98f3-48b8-b46e-613b70f50224.png)
 
 
 
