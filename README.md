@@ -7,7 +7,7 @@ Nadhif Bhagawanta - 05111942000029
 # QUESTION
 ![image](https://user-images.githubusercontent.com/81474281/143683260-ad5a5be3-98f3-48b8-b46e-613b70f50224.png)
 
-
+Create X using GNS3 and Cisco Packet Tracer with different CLASSLESS calculation methods
 
 # ANSWER
 ![Gambar topologi](https://user-images.githubusercontent.com/81411468/143681459-e6159b8a-ae50-44b4-bc5b-869e71664827.png)
